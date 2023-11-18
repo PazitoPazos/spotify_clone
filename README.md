@@ -1,5 +1,6 @@
 # Hecho siguiendo el vídeo de Midudev
 [<img src="https://i.ytimg.com/vi/WRc8lz-bp78/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLD22nfAGaNYOF0VJ9BJO4r4iTInXw" />](https://www.youtube.com/watch?v=WRc8lz-bp78)
+
 [Clon de Spotify DESDE CERO con Astro 3, React JS, Svelte y TailwindCSS](https://www.youtube.com/watch?v=WRc8lz-bp78)
 
 # Spotify Clone con Astro
